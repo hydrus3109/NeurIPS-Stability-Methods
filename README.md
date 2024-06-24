@@ -1,2 +1,2 @@
-# NeurIPS-Stability-Methods
-A complilation of our code for the NeurIPS submission A Novel Review of Stability Techniques for Improved Privacy-Preserving Machine Learning
+# PRIMES AI privacy
+This repo houses the code I developed during my first year with PRIMES, researching privacy methods for stability in AI. 
