@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1MlqWEfN_GFIue7iw-n6mz-AFzksqg4is?usp=sha
 
 ### Executing programs
 
-* All experiments and files can be run indepedently, either locally or though a service like colab
+* All experiments and files can be run indepedently, either locally or though a service like Google Colab
 * for experiements that Involve transformed data, download the data and load through its path
 * Training results will save as Numpy files, which can then be loaded as comparison
 
@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1MlqWEfN_GFIue7iw-n6mz-AFzksqg4is?usp=sha
 
 Aidan Gao, https://github.com/hydrus3109
 
-Coley Duplessie, https://github.com/ColemanDuPlessie
+Coleman Duplessie, https://github.com/ColemanDuPlessie
 
 
 
