@@ -36,3 +36,4 @@ Coleman Duplessie, https://github.com/ColemanDuPlessie
 
 ## Acknowledgments
 
+This research was completed as part of the MIT PRIMES program. We were mentored by Dr. Hanshen Xiao, who created the PAC privacy framework, taught us the basics of privacy in machine learning, and introduced us to the state-of-the-art. Unless otherwise noted, all code here is our own.
